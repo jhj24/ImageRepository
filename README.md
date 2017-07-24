@@ -24,11 +24,8 @@
 #### 3.2 文件夹删除
 ![文件夹](https://github.com/jhj24/ImageRepository/blob/master/github/step_008.png)
 
-## 4 github常用命令
-![上传](https://github.com/jhj24/ImageRepository/blob/master/github/step_002.png)
-
-## 5 上传错误
-### 4.1 README.md文件不在本地代码目录中
+## 4 上传错误
+#### 4.1 README.md文件不在本地代码目录中
 ![上传](https://github.com/jhj24/ImageRepository/blob/master/github/error_001.png)
  - 解决方案
  
